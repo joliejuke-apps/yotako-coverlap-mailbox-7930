@@ -1,0 +1,32 @@
+.breakpoint-0 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%
+}
+.style0 {
+  background-color: #005dff;
+  margin-left: 27.916666666666668%;
+  margin-top: 15.833333333333332%;
+  width: 23.75%;
+  height: 42.22222222222222vh
+}
+.style1,
+.style2 {
+  position: relative
+}
+.style1 {
+  display: flex;
+  height: 38.425925925925924vh;
+  background-color: red;
+  margin-left: -1.1979166666666667%;
+  margin-top: 36.94444444444444%;
+  width: 21.614583333333336%
+}
+.style2 {
+  background-color: #00ff19;
+  margin-left: 0;
+  margin-top: 0;
+  width: 109.87951807228914%;
+  height: 109.87951807228914%;
+  flex-shrink: 0
+}
